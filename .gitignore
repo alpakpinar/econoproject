@@ -3,3 +3,5 @@
 .tokens/
 *.pyc
 *.swp
+tweet/
+fig/
